@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero_blowup_n4",
+    "texture": "2474df7b-96e4-4faf-9fb8-6b4f0bf3c9b4",
+    "atlas": "ebb25974-78f8-469f-a4b8-bac08387f220",
+    "rect": [
+      755,
+      2,
+      66,
+      78
+    ],
+    "offset": [
+      0,
+      5
+    ],
+    "originalSize": [
+      102,
+      126
+    ],
+    "rotated": 1
+  }
+}

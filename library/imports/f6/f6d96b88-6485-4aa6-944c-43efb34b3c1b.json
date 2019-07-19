@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "plane_die.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "slice08-die01": {
+      "__uuid__": "a86189af-68b6-46e3-8fae-32bda764d3ee"
+    },
+    "slice08_die02": {
+      "__uuid__": "be1e966d-05a7-4a74-9197-daaf50d2e32b"
+    }
+  }
+}

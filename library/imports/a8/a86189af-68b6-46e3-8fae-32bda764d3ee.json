@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slice08-die01",
+    "texture": "ac7fb788-cf0f-402a-bcff-bd09e9e2b7ee",
+    "atlas": "f6d96b88-6485-4aa6-944c-43efb34b3c1b",
+    "rect": [
+      0,
+      0,
+      86,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      91
+    ]
+  }
+}

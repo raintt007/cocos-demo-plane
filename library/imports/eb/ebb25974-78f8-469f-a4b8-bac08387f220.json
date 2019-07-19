@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shoot.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "bomb": {
+      "__uuid__": "fac76ba3-628e-410e-9877-3a848ba7793c"
+    },
+    "bullet1": {
+      "__uuid__": "a39e0e8d-c932-4858-b7cf-c7eb56341d03"
+    },
+    "bullet2": {
+      "__uuid__": "deace260-f255-436b-9672-d920111e0bed"
+    },
+    "enemy1": {
+      "__uuid__": "88181abf-694c-4789-aaff-b5b0337f7748"
+    },
+    "enemy1_down1": {
+      "__uuid__": "edbcc507-1257-499d-af25-b2016ea1d487"
+    },
+    "enemy1_down2": {
+      "__uuid__": "e4c3cf6c-513e-4b20-a449-f728eef0ee0b"
+    },
+    "enemy1_down3": {
+      "__uuid__": "652086ef-7f79-4230-8e02-5d854addaab2"
+    },
+    "enemy1_down4": {
+      "__uuid__": "5fb87426-3d6f-42b0-a3ad-8d966b9a438f"
+    },
+    "enemy2": {
+      "__uuid__": "7fb818d3-02f2-4d5f-823c-cef57f25f7fa"
+    },
+    "enemy2_down1": {
+      "__uuid__": "2d114de7-5202-4b92-9d04-4cab45b3079f"
+    },
+    "enemy2_down2": {
+      "__uuid__": "dc6aa4ce-f260-49e6-ae20-19f0034c5f90"
+    },
+    "enemy2_down3": {
+      "__uuid__": "6b39ddfa-65a6-411b-a525-1caeba8acfb7"
+    },
+    "enemy2_down4": {
+      "__uuid__": "e8748e52-d5c1-44e9-99b5-114792a66a4c"
+    },
+    "enemy2_hit": {
+      "__uuid__": "8451d70c-488d-4cf4-b5f7-280781f3372d"
+    },
+    "enemy3_down1": {
+      "__uuid__": "5476395a-8bc5-4aa1-991a-60752acb9bfa"
+    },
+    "enemy3_down2": {
+      "__uuid__": "e4f28c7f-b9bd-4a10-a451-7cf578d0ae19"
+    },
+    "enemy3_down3": {
+      "__uuid__": "a3eaf3c0-7da2-4a52-951f-317c7cb418e5"
+    },
+    "enemy3_down4": {
+      "__uuid__": "cb4a5430-be95-4feb-b6ec-edcdaa814343"
+    },
+    "enemy3_down5": {
+      "__uuid__": "f3b7ba7b-d000-421b-b83f-0d5b4e656f44"
+    },
+    "enemy3_down6": {
+      "__uuid__": "de446ff8-25ca-4363-9139-bc11f4190a3a"
+    },
+    "enemy3_hit": {
+      "__uuid__": "bb029e21-8aa0-4a7a-8e95-5495b55b45be"
+    },
+    "enemy3_n1": {
+      "__uuid__": "4c993fe7-1278-42a8-985a-7e69688be01c"
+    },
+    "enemy3_n2": {
+      "__uuid__": "dd7c645a-7b7d-46f0-a9b1-0092d9f6857f"
+    },
+    "game_pause_nor": {
+      "__uuid__": "d55183ac-b855-4334-b3a8-4f8820374582"
+    },
+    "game_pause_pressed": {
+      "__uuid__": "230f65ec-0a1a-4865-8e07-6180292a1684"
+    },
+    "game_resume_nor": {
+      "__uuid__": "4c1586d5-b712-45cf-a350-01fd27ad481f"
+    },
+    "game_resume_pressed": {
+      "__uuid__": "c6573f9c-31c9-4569-8949-28a168ff3cc1"
+    },
+    "hero1": {
+      "__uuid__": "ccbb3308-e31b-4258-a3d6-a5537a42a99f"
+    },
+    "hero2": {
+      "__uuid__": "c12465aa-c3a1-4128-bc11-1ea23ca149ed"
+    },
+    "hero_blowup_n1": {
+      "__uuid__": "d6d68609-87fe-4443-b10e-dc10feae833a"
+    },
+    "hero_blowup_n2": {
+      "__uuid__": "bb54bdef-6d73-4ec6-bc16-9152c6a7ac41"
+    },
+    "hero_blowup_n3": {
+      "__uuid__": "413ff423-50cf-4348-9a28-fe4ee6c1ad37"
+    },
+    "hero_blowup_n4": {
+      "__uuid__": "776dbf77-9943-43a7-bcc5-4855e177eca2"
+    },
+    "ufo1": {
+      "__uuid__": "7a10badf-a3c7-4d5e-8380-7d669229aea4"
+    },
+    "ufo2": {
+      "__uuid__": "ffab0ce9-8f5e-4a0c-89fc-1e73a97bc0e5"
+    }
+  }
+}

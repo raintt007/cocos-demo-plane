@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hero_blowup_ani",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e7425349-96d5-40b9-9ee3-9df615e1465b"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a86189af-68b6-46e3-8fae-32bda764d3ee"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "be1e966d-05a7-4a74-9197-daaf50d2e32b"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "776dbf77-9943-43a7-bcc5-4855e177eca2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

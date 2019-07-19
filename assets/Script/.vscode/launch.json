@@ -1,0 +1,20 @@
+{
+    "version": "1.4.0",
+    "configurations": [
+        
+        {
+            "name": "Creator Debug: Launch Chrome",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:7456",
+            "sourceMaps": true,
+            "userDataDir": "${workspaceRoot}/.vscode/chrome",
+            //"diagnosticLogging": false,
+            "runtimeExecutable": "D:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+            "pathMapping": {
+                "/preview-scripts/assets": "${workspaceRoot}/temp/quick-scripts/assets",
+                "/": "${workspaceRoot}"
+            }    
+        }
+    ]
+}

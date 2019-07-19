@@ -1,0 +1,68 @@
+2019-07-19T04:01:01.668Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-19T04:01:01.732Z - normal: Initializing Asset Database
+2019-07-19T04:01:01.735Z - normal: checking language setting...
+2019-07-19T04:01:01.736Z - normal: Language: zh
+2019-07-19T04:01:02.460Z - success: preview server running at http://localhost:7456
+2019-07-19T04:01:02.547Z - success: protocol editor-framework registered
+2019-07-19T04:01:02.547Z - success: protocol app registered
+2019-07-19T04:01:02.547Z - success: protocol theme registered
+2019-07-19T04:01:02.547Z - success: protocol packages registered
+2019-07-19T04:01:02.547Z - success: protocol uuid registerred
+2019-07-19T04:01:02.548Z - success: protocol db registerred
+2019-07-19T04:01:02.548Z - success: protocol thumbnail registerred
+2019-07-19T04:01:02.548Z - success: protocol unpack registerred
+2019-07-19T04:01:02.548Z - success: protocol disable-commonjs registerred
+2019-07-19T04:01:02.629Z - normal: connected!
+2019-07-19T04:01:02.631Z - normal: Check project /Users/denten/Downloads/plane/airplane
+2019-07-19T04:01:02.632Z - normal: Initializing project /Users/denten/Downloads/plane/airplane
+2019-07-19T04:01:03.218Z - normal: Initializing Cocos2d
+2019-07-19T04:01:03.991Z - normal: Initializing engine extends
+2019-07-19T04:01:04.072Z - success: asset-db-debugger loaded
+2019-07-19T04:01:04.073Z - success: color-picker loaded
+2019-07-19T04:01:04.159Z - success: fb-audience-network loaded
+2019-07-19T04:01:04.202Z - success: fb-live-stream loaded
+2019-07-19T04:01:04.214Z - success: google-play-instant loaded
+2019-07-19T04:01:04.218Z - success: huawei-runtime loaded
+2019-07-19T04:01:04.219Z - success: jsb-adapter loaded
+2019-07-19T04:01:04.222Z - success: oppo-runtime loaded
+2019-07-19T04:01:04.247Z - success: package-manager loaded
+2019-07-19T04:01:04.358Z - success: qqplay-adapter loaded
+2019-07-19T04:01:04.362Z - success: runtime-dev-tools loaded
+2019-07-19T04:01:04.385Z - success: sdkbox loaded
+2019-07-19T04:01:04.406Z - success: tester loaded
+2019-07-19T04:01:04.433Z - success: ui-grid loaded
+2019-07-19T04:01:04.453Z - success: ui-kit-preview-extra loaded
+2019-07-19T04:01:04.473Z - success: ui-kit-preview loaded
+2019-07-19T04:01:04.495Z - success: ui-kit loaded
+2019-07-19T04:01:04.521Z - success: ui-tree loaded
+2019-07-19T04:01:04.525Z - success: vivo-runtime loaded
+2019-07-19T04:01:04.527Z - success: weapp-adapter loaded
+2019-07-19T04:01:04.603Z - success: assets loaded
+2019-07-19T04:01:04.631Z - success: builder loaded
+2019-07-19T04:01:04.935Z - success: cocos-services loaded
+2019-07-19T04:01:04.967Z - success: console loaded
+2019-07-19T04:01:05.013Z - success: fb-instant-games loaded
+2019-07-19T04:01:05.015Z - success: google-instant-games loaded
+2019-07-19T04:01:05.050Z - success: hierarchy loaded
+2019-07-19T04:01:05.080Z - success: inspector loaded
+2019-07-19T04:01:05.082Z - success: keystore loaded
+2019-07-19T04:01:05.151Z - success: node-library loaded
+2019-07-19T04:01:05.154Z - success: package-asset loaded
+2019-07-19T04:01:05.156Z - success: preferences loaded
+2019-07-19T04:01:05.183Z - success: project-exporter loaded
+2019-07-19T04:01:05.214Z - success: project-importer loaded
+2019-07-19T04:01:05.249Z - success: project-settings loaded
+2019-07-19T04:01:05.287Z - success: scene loaded
+2019-07-19T04:01:05.299Z - success: simulator-debugger loaded
+2019-07-19T04:01:05.302Z - success: sprite-editor loaded
+2019-07-19T04:01:05.340Z - success: store loaded
+2019-07-19T04:01:05.368Z - success: timeline loaded
+2019-07-19T04:01:06.244Z - info: Cocos Services load base data!
+2019-07-19T04:01:07.499Z - normal: Loading packages
+2019-07-19T04:01:07.510Z - normal: Watching packages
+2019-07-19T04:01:07.676Z - normal: Run Application
+2019-07-19T04:05:08.117Z - success: VS Code extension installed to /Users/denten/.vscode/extensions
+2019-07-19T04:05:39.734Z - success: VS Code extension installed to /Users/denten/.vscode/extensions
+2019-07-19T04:07:24.725Z - success: Chrome debug setting has been updated to .vscode/launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2019-07-19T04:08:01.623Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
+2019-07-19T04:22:50.652Z - info: shutdown preview server

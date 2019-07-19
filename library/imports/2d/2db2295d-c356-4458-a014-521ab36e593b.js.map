@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../assets/Script/assets/Script/globals.js"],"names":["window","D","common","commonInfo"],"mappings":";;;;;;AAAAA,OAAOC,CAAP,GAAW;AACPC,YAAQ,IADD,EACO;AACdC,gBAAY,IAFL,CAEW;AAFX,CAAX","file":"globals.js","sourceRoot":"../../../../assets/Script","sourcesContent":["window.D = {\n    common: null, //公共方法\n    commonInfo: null, //定义的一些常量\n};"]}

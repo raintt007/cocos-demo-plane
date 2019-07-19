@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "controlerBar",
+    "texture": "d56f254d-7456-4ce7-aeb0-f2f9c05d6bc9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

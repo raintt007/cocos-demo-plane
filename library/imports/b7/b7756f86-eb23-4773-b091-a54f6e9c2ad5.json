@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plane_die",
+    "texture": "ac7fb788-cf0f-402a-bcff-bd09e9e2b7ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      91
+    ],
+    "offset": [
+      -41.5,
+      18.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

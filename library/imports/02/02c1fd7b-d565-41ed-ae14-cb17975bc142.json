@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "enemy.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "enemy1": {
+      "__uuid__": "49f79c61-f8eb-4cb3-a1d6-a56ae74e6c54"
+    },
+    "enemy1_donw2": {
+      "__uuid__": "c1c00a2a-6035-49e3-b084-55fadfbaf265"
+    },
+    "enemy1_down1": {
+      "__uuid__": "765e085f-e00c-4cab-bd9d-510a8850535d"
+    },
+    "enemy1_down3": {
+      "__uuid__": "7964f9ac-1694-45ee-8def-7b0f94a2eaa2"
+    },
+    "enemy1_down4": {
+      "__uuid__": "224d7671-4d3c-4434-899e-dda86e73868e"
+    },
+    "enemy1_down5": {
+      "__uuid__": "36b66207-9f15-4ea6-9327-3e52e8a6de1b"
+    },
+    "enemy2": {
+      "__uuid__": "d711e0f0-a2e0-4769-8b09-560312ba4d2a"
+    },
+    "enemy2_down1": {
+      "__uuid__": "7d0cc614-a7ed-45a8-b7f2-ddac0e3ed728"
+    },
+    "enemy2_down2": {
+      "__uuid__": "eea3f301-b74e-486e-a618-11788c53fc79"
+    },
+    "enemy2_down3": {
+      "__uuid__": "0d4bf32a-742f-4387-83c7-9e5cf258b613"
+    },
+    "enemy2_down4": {
+      "__uuid__": "7cc51412-780a-4403-9177-cb66fa975ce7"
+    },
+    "enemy2_down5": {
+      "__uuid__": "d82c9570-f421-4bd3-811b-adba8251c8d7"
+    },
+    "enemy3": {
+      "__uuid__": "bbd9bced-f7a7-45b1-8442-bb265338a059"
+    },
+    "enemy3_down1": {
+      "__uuid__": "40d38ee8-85c9-4b7f-8f20-085b9bc7ff22"
+    },
+    "enemy3_down2": {
+      "__uuid__": "601073a2-7409-4878-bd8e-589001827c3e"
+    },
+    "enemy3_down3": {
+      "__uuid__": "f8f04003-4479-467d-ad98-a83341040ca8"
+    },
+    "enemy3_down4": {
+      "__uuid__": "57d37278-2cbb-44c4-a7f9-70eeda988d64"
+    },
+    "enemy3_down5": {
+      "__uuid__": "205a6b18-1836-4b55-bd13-dbfbab2928ed"
+    }
+  }
+}

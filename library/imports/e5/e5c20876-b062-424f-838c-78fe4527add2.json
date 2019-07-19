@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "controlerBG",
+    "texture": "39854025-b147-449d-9fe7-ff4902ff69fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      155
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

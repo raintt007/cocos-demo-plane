@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slice08_08的副本",
+    "texture": "e8fe1f98-e2aa-4832-9de0-65f7bfad7ae7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
